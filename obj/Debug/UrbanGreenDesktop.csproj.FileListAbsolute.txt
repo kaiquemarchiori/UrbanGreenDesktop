@@ -1,0 +1,10 @@
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\bin\Debug\UrbanGreenDesktop.exe.config
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\bin\Debug\UrbanGreenDesktop.exe
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\bin\Debug\UrbanGreenDesktop.pdb
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\obj\Debug\UrbanGreenDesktop.csproj.AssemblyReference.cache
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\obj\Debug\UrbanGreenDesktop.Form1.resources
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\obj\Debug\UrbanGreenDesktop.Properties.Resources.resources
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\obj\Debug\UrbanGreenDesktop.csproj.GenerateResource.cache
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\obj\Debug\UrbanGreenDesktop.csproj.CoreCompileInputs.cache
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\obj\Debug\UrbanGreenDesktop.exe
+C:\Users\A0159220\source\repos\UrbanGreenDesktop\obj\Debug\UrbanGreenDesktop.pdb
